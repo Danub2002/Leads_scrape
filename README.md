@@ -1,2 +1,2 @@
 # Leads_scrape
-A Software ta was built to help business find leads.
+A Software that was built to help business find leads using the google API.
